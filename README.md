@@ -3,13 +3,15 @@
 <div>
 <img src="https://user-images.githubusercontent.com/75109884/151191396-20f4a2b8-5a09-4c53-869e-e3ee5f3f02a7.gif">
 </div>
- 
+
+## PROGRESS
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=DANNN-ID&show_icons=true&count_private=true&locale=en&hide=stars" height="155">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNN-ID&layout=compact&langs_count=6" height="155">
 </div>
 
-## PROFILE 👋
+## PROFILE
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
