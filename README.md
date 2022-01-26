@@ -37,6 +37,7 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=laravel&logoColor=white">
 
-## OTHER LANGUAGES I KNOW
+## OTHER LANGUAGES & FRAMEWORK I KNOW
 
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-CI-black?style=flat&logo=codeigniter&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-CodeIgniter-E34F26?style=flat&logo=codeigniter&logoColor=white">
+ <img src="https://img.shields.io/badge/-Tailwind-640064?style=flat&logo=tailwind&logoColor=white">
