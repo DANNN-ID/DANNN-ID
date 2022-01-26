@@ -1,7 +1,7 @@
 ## WELCOME TO MY PROFILE STALKERS 👋
 
 <div>
-<img src="https://user-images.githubusercontent.com/75109884/151191396-20f4a2b8-5a09-4c53-869e-e3ee5f3f02a7.gif">
+<img src="https://user-images.githubusercontent.com/75109884/151193491-3476bff5-d120-443f-a73e-dda1477cb7cc.gif">
 </div>
 
 ## PROGRESS
