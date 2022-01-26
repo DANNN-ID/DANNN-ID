@@ -40,4 +40,4 @@
 ## OTHER LANGUAGES & FRAMEWORK I KNOW
 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-CodeIgniter-E34F26?style=flat&logo=codeigniter&logoColor=white">
- <img src="https://img.shields.io/badge/-Tailwind-5A0FC8?style=flat&logo=css&logoColor=white">
+ <img src="https://img.shields.io/badge/-Tailwind-5A0FC8?style=flat&logo=css3&logoColor=white">
