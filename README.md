@@ -2,7 +2,7 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=DANNN-ID&show_icons=true&count_private=true&locale=en&hide=stars" height="155">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNN-ID&layout=compact&hide=html&langs_count=6" height="155">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNN-ID&layout=compact&langs_count=6" height="155">
 </div>
 
 ## PROFILE 👋
