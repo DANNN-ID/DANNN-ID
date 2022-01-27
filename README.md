@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat&logo=codeigniter&logoColor=white">
-<img src="https://img.shields.io/badge/-Hostinger 000 Webhost-5A0FC8?style=flat&logo=000webhostapp&logoColor=white">
+<img src="https://img.shields.io/badge/-Android Studio-5A0FC8?style=flat&logo=androidstudio&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
