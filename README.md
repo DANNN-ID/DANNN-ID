@@ -36,7 +36,7 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Sublime Text 3-333333?style=flat&logo=sublimetext&logoColor=white">
 <img src="http://img.shields.io/badge/-Figma UI/UX-21ba21?style=flat&logo=figma&logoColor=white">
-<img src="http://img.shields.io/badge/-Github Copilot-17313b?style=flat&logo=githubcopilot&logoColor=white">
+<img src="http://img.shields.io/badge/-Github Copilot-17313b?style=flat&logo=copilot&logoColor=white">
 
 ## OTHER LANGUAGES & FRAMEWORK I KNOW
 
