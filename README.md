@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Mobirise-fa00a7?style=flat&logo=mobirise&logoColor=white">
+<img src="https://img.shields.io/badge/-Mobirise-fa00a7?style=flat&logo=mobile&logoColor=white">
 <img src="https://img.shields.io/badge/-Android Studio-32a852?style=flat&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/-Windows 10-329cd1?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/-XAMPP-ff9900?style=flat&logo=xampp&logoColor=white">
