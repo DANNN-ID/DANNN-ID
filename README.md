@@ -1,4 +1,4 @@
-<h2><marquee>WELCOME TO MY PROFILE</marquee></h2>
+<marquee>WELCOME TO MY PROFILE</marquee>
 
 ## Hi, I'm AHMAD WILDAN 👋
 
