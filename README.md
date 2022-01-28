@@ -40,7 +40,7 @@
 <img src="http://img.shields.io/badge/-WordPress-3f49d4?style=flat&logo=wordpress&logoColor=white">
 <img src="http://img.shields.io/badge/-Yoast SEO-bf1587?style=flat&logo=yoast&logoColor=white">
 <img src="http://img.shields.io/badge/-Sublime Text 3-333333?style=flat&logo=sublimetext&logoColor=white">
-<img src="http://img.shields.io/badge/-Figma UI/UX-21ba21?style=flat&logo=figma&logoColor=white">
+<img src="http://img.shields.io/badge/-Figma-21ba21?style=flat&logo=figma&logoColor=white">
 <img src="http://img.shields.io/badge/-Github Copilot-2f657a?style=flat&logo=github&logoColor=white">
 <img src="http://img.shields.io/badge/-Laragon-429aff?style=flat&logo=laragon&logoColor=white">
 
