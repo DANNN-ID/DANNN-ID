@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Web Builder-fa00a7?style=flat&logo=phone&logoColor=white">
+<img src="https://img.shields.io/badge/-Blogspot-ff850a?style=flat&logo=blogspot&logoColor=white">
 <img src="https://img.shields.io/badge/-Android Studio-32a852?style=flat&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/-Windows 10-329cd1?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/-XAMPP-ff9900?style=flat&logo=xampp&logoColor=white">
@@ -46,4 +46,4 @@
 
 ## OTHER LANGUAGES & FRAMEWORK I KNOW
 
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-ff9900?style=flat&logo=mysql&logoColor=ffffff"> <img src="https://img.shields.io/badge/-PHP-5910ad?style=flat&logo=php&logoColor=ffffff"> <img src="https://img.shields.io/badge/-CodeIgniter-E34F26?style=flat&logo=codeigniter&logoColor=white"> <img src="http://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwind CSS-5A0FC8?style=flat&logo=css3&logoColor=white">
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-ff9900?style=flat&logo=mysql&logoColor=ffffff"> <img src="https://img.shields.io/badge/-PHP-6363ff?style=flat&logo=php&logoColor=ffffff"> <img src="https://img.shields.io/badge/-CodeIgniter-E34F26?style=flat&logo=codeigniter&logoColor=white"> <img src="http://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwind CSS-5A0FC8?style=flat&logo=css3&logoColor=white">
