@@ -50,4 +50,4 @@
 
 ## SOCIAL MEDIA
 
-<img src="http://img.shields.io/badge/-Facebook-F89820?style=flat&logo=facebook&logoColor=white"> <img src="https://img.shields.io/badge/-Instagram-659ad2?style=flat&logo=instagram&logoColor=ffffff"> <img src="https://img.shields.io/badge/-WhatsApp-ff9900?style=flat&logo=whatsapp&logoColor=ffffff"> <img src="https://img.shields.io/badge/-LinkedIn-6363ff?style=flat&logo=linkedin&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Facebook-2b52ff?style=flat&logo=facebook&logoColor=white"> <img src="https://img.shields.io/badge/-Instagram-f52a82?style=flat&logo=instagram&logoColor=ffffff"> <img src="https://img.shields.io/badge/-WhatsApp-32a852?style=flat&logo=whatsapp&logoColor=ffffff"> <img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat&logo=linkedin&logoColor=ffffff">
