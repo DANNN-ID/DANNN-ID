@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat&logo=codeigniter&logoColor=white">
 <img src="https://img.shields.io/badge/-Android Studio-32a852?style=flat&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/-Windows 10-329cd1?style=flat&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/-XAMPP-ff9900?style=flat&logo=xampp&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/-TypeScript-4287f5?style=flat&logo=typescript&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
@@ -41,7 +42,8 @@
 <img src="http://img.shields.io/badge/-Sublime Text 3-333333?style=flat&logo=sublimetext&logoColor=white">
 <img src="http://img.shields.io/badge/-Figma UI/UX-21ba21?style=flat&logo=figma&logoColor=white">
 <img src="http://img.shields.io/badge/-Github Copilot-2f657a?style=flat&logo=github&logoColor=white">
+<img src="http://img.shields.io/badge/-Laragon-429aff?style=flat&logo=laragon&logoColor=white">
 
 ## OTHER LANGUAGES & FRAMEWORK I KNOW
 
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-659ad2?style=flat&logo=mysql&logoColor=ffffff"> <img src="https://img.shields.io/badge/-PHP-659ad2?style=flat&logo=php&logoColor=ffffff"> <img src="https://img.shields.io/badge/-CodeIgniter-E34F26?style=flat&logo=codeigniter&logoColor=white"> <img src="http://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwind CSS-5A0FC8?style=flat&logo=css3&logoColor=white">
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-ff9900?style=flat&logo=mysql&logoColor=ffffff"> <img src="https://img.shields.io/badge/-PHP-5910ad?style=flat&logo=php&logoColor=ffffff"> <img src="https://img.shields.io/badge/-CodeIgniter-E34F26?style=flat&logo=codeigniter&logoColor=white"> <img src="http://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwind CSS-5A0FC8?style=flat&logo=css3&logoColor=white">
