@@ -1,6 +1,4 @@
-<marquee>WELCOME TO MY PROFILE</marquee>
-
-## Hi, I'm AHMAD WILDAN 👋
+## Hi, I'm AHMAD WILDAN & WELCOME TO MY PROFILE 👋
 
 <div>
 <img src="https://user-images.githubusercontent.com/75109884/151193491-3476bff5-d120-443f-a73e-dda1477cb7cc.gif">
