@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-WEB Builder-c41f1f?style=flat&logo=codeigniter&logoColor=white">
 <img src="https://img.shields.io/badge/-Android Studio-32a852?style=flat&logo=androidstudio&logoColor=white">
-<img src="https://img.shields.io/badge/-XAMPP-ff9900?style=flat&logo=xampp&logoColor=white">
+<img src="http://img.shields.io/badge/-Github Copilot-2f657a?style=flat&logo=github&logoColor=white">
 <img src="http://img.shields.io/badge/-Laragon-429aff?style=flat&logo=laragon&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/-TypeScript-4287f5?style=flat&logo=typescript&logoColor=white">
@@ -41,7 +41,7 @@
 <img src="http://img.shields.io/badge/-Yoast SEO-bf1587?style=flat&logo=yoast&logoColor=white">
 <img src="http://img.shields.io/badge/-Sublime Text-333333?style=flat&logo=sublimetext&logoColor=white">
 <img src="http://img.shields.io/badge/-Figma-21ba21?style=flat&logo=figma&logoColor=white">
-<img src="http://img.shields.io/badge/-Github Copilot-2f657a?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-XAMPP-ff9900?style=flat&logo=xampp&logoColor=white">
 <img src="https://img.shields.io/badge/-Windows 10-329cd1?style=flat&logo=windows&logoColor=white">
 
 ## OTHER LANGUAGES & FRAMEWORK I KNOW
