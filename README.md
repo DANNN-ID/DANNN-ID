@@ -7,8 +7,8 @@
 ## PROGRESS
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=DANNN-ID&show_icons=true&count_private=true&locale=en&hide=stars&theme=midnight-purple" height="155">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNN-ID&layout=compact&langs_count=6&theme=midnight-purple" height="155">
+<img src="https://github-readme-stats.vercel.app/api?username=DANNN-ID&show_icons=true&count_private=true&locale=en&hide=stars&theme=bear" height="155">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNN-ID&layout=compact&langs_count=6&theme=bear" height="155">
 </div>
 
 ## PROFILE
