@@ -8,7 +8,7 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=DANNN-ID&show_icons=true&count_private=true&locale=en&hide=prs&theme=aura" height="155">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNN-ID&layout=compact&langs_count=6&hide=java,c++&theme=aura" height="155">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNN-ID&layout=compact&langs_count=6&theme=aura" height="155">
 </div>
 
 ## Profile
