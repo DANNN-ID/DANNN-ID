@@ -6,24 +6,4 @@
  
  ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-5A0FC8?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-Tailwind-2563eb?style=flat&logo=tailwind&logoColor=white">
-<img src="https://img.shields.io/badge/-Flowbite-7c3aed?style=flat&logo=flowbite&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Laragon-429aff?style=flat&logo=laragon&logoColor=white">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-WordPress-3f49d4?style=flat&logo=wordpress&logoColor=white">
-<img src="http://img.shields.io/badge/-Yoast SEO-bf1587?style=flat&logo=yoast&logoColor=white">
-<img src="http://img.shields.io/badge/-Sublime Text-333333?style=flat&logo=sublimetext&logoColor=white">
-<img src="https://img.shields.io/badge/-Windows 10-329cd1?style=flat&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/-XAMPP-ff9900?style=flat&logo=xampp&logoColor=white">
-<img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MySQL-ff9900?style=flat&logo=mysql&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-PHP-6363ff?style=flat&logo=php&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-CodeIgniter-E34F26?style=flat&logo=codeigniter&logoColor=white">
-<img src="http://img.shields.io/badge/-Laravel-ff3c00?style=flat&logo=laravel&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-5A0FC8?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwind-2563eb?style=flat&logo=tailwind&logoColor=white"> <img src="https://img.shields.io/badge/-Flowbite-7c3aed?style=flat&logo=flowbite&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Laragon-429aff?style=flat&logo=laragon&logoColor=white"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-WordPress-3f49d4?style=flat&logo=wordpress&logoColor=white"> <img src="http://img.shields.io/badge/-Yoast SEO-bf1587?style=flat&logo=yoast&logoColor=white"> <img src="http://img.shields.io/badge/-Sublime Text-333333?style=flat&logo=sublimetext&logoColor=white"> <img src="https://img.shields.io/badge/-Windows 10-329cd1?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/-XAMPP-ff9900?style=flat&logo=xampp&logoColor=white"> <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-ff9900?style=flat&logo=mysql&logoColor=ffffff"> <img src="https://img.shields.io/badge/-PHP-6363ff?style=flat&logo=php&logoColor=ffffff"> <img src="https://img.shields.io/badge/-CodeIgniter-E34F26?style=flat&logo=codeigniter&logoColor=white"> <img src="http://img.shields.io/badge/-Laravel-ff3c00?style=flat&logo=laravel&logoColor=white">
