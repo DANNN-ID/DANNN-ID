@@ -29,5 +29,6 @@
 <img src="https://img.shields.io/badge/-PHP-6363ff?style=flat&logo=php&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-CodeIgniter-E34F26?style=flat&logo=codeigniter&logoColor=white">
 <img src="http://img.shields.io/badge/-Laravel-ff3c00?style=flat&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap 4.6-5A0FC8?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap 4.6-5A0FC8?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-5A0FC8?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Tailwind-5A0FC8?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Flowbite-5A0FC8?style=flat&logo=css3&logoColor=white">
