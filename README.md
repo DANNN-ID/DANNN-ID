@@ -1,27 +1,10 @@
-<h1 align="center">Hi, I'm Ahmad Wildan & Welcome To My Profile 👋</h1>
+<h2 align="center">Hi, I'm Ahmad Wildan & Welcome To My Profile 👋</h1>
  
 <div>
 <img src="https://user-images.githubusercontent.com/75109884/151193491-3476bff5-d120-443f-a73e-dda1477cb7cc.gif">
 </div>
-
-## Progress
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=DANNN-ID&show_icons=true&count_private=true&locale=en&hide=prs&theme=aura" height="155">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNN-ID&layout=compact&langs_count=6&theme=aura" height="155">
-</div>
-
-## Profile
-
-- 🧛 I have expertise in **Web Development & SEO Article Content Writing**
-- 🔭 I’m currently working on **KAKANDA TECH Company Profile Website**
-- 🌱 I’m currently learning **Tailwind, React, & Laravel**
-- 👯 I’m looking to collaborate on **Google AdSense**
-- 🤔 I’m looking for help with **Stack Overflow & Programmer Forums**
-- ⚡ Fun fact: **Coding is Not Magic**
-- 📫 You can reach me at **ahmadwildan.mee@gmail.com**
  
- ## Tech & Tools Preference
+ ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -42,6 +25,6 @@
 <img src="https://img.shields.io/badge/-Windows 10-329cd1?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/-XAMPP-ff9900?style=flat&logo=xampp&logoColor=white">
 
-## Other Languages & Framework I Know
+### Other Languages & Framework I Know
 
 <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-ff9900?style=flat&logo=mysql&logoColor=ffffff"> <img src="https://img.shields.io/badge/-PHP-6363ff?style=flat&logo=php&logoColor=ffffff"> <img src="https://img.shields.io/badge/-CodeIgniter-E34F26?style=flat&logo=codeigniter&logoColor=white"> <img src="http://img.shields.io/badge/-Laravel-ff3c00?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap 4.6-5A0FC8?style=flat&logo=css3&logoColor=white">
